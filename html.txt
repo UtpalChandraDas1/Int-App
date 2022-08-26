@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internet  Application</title>
+</head>
+<body>
+    <h1>Utpal Chandra Das</h1>
+  <img src="https://storage.googleapis.com/anitech-cloud-media/2020/04/cover.jpg" style="width: 500px">
+    <hr/> 
+    <h2>Personal Details</h2>
+    <u1>
+        <li>
+            <a href="http://www.chula.ac.th">Chulalongkorn University</a>
+        </li>
+        <li>
+            Department of 
+            <a href="http://www.ee.eng.chula.ac.th/">Electrical Engineering</a>
+        </li>
+        <li>Date of Birth 25:11:1996</li>
+        <li>
+            
+        </li>
+    </u1>
+
+
+    
+</body>
+</html>
